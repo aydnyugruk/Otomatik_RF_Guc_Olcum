@@ -1,0 +1,428 @@
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe.config
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.pdb
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csprojAssemblyReference.cache
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Properties.Resources.resources
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.GenerateResource.cache
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.CoreCompileInputs.cache
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.pdb
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form2.resources
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form3.resources
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form4.resources
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form5.resources
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form6.resources
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form1.resources
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\bin\Debug\MaterialSkin.dll
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.CopyComplete
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.ResolveComReference.cache
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Ivi.Visa.dll
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Ivi.Visa.xml
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form7.resources
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart.4.5.2.dll
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart3D.4.5.2.dll
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.dll
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart.4.5.2.xml
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart3D.4.5.2.xml
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.pdb
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.xml
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\indus\Desktop\Spark\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe.licenses
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe.config
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.ResolveComReference.cache
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.pdb
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csprojResolveAssemblyReference.cache
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form1.resources
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form2.resources
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form3.resources
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form4.resources
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form5.resources
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form6.resources
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form7.resources
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Properties.Resources.resources
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.GenerateResource.Cache
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe.licenses
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.pdb
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart.4.5.2.dll
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart3D.4.5.2.dll
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Ivi.Visa.dll
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.dll
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\MaterialSkin.dll
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart.4.5.2.xml
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart3D.4.5.2.xml
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Ivi.Visa.xml
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.pdb
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.xml
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\aydin_yugruk\Desktop\Otomatik gü._github\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe.config
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.ResolveComReference.cache
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.pdb
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.pdb
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart.4.5.2.dll
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart3D.4.5.2.dll
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Ivi.Visa.dll
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.dll
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\MaterialSkin.dll
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart.4.5.2.xml
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart3D.4.5.2.xml
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Ivi.Visa.xml
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.pdb
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.xml
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csprojResolveAssemblyReference.cache
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form1.resources
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form2.resources
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form3.resources
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form4.resources
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form5.resources
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form6.resources
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form7.resources
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Properties.Resources.resources
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.GenerateResource.Cache
+C:\Users\aydin_yugruk\Desktop\_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe.licenses
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe.config
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.ResolveComReference.cache
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.pdb
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.pdb
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart.4.5.2.dll
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart3D.4.5.2.dll
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Ivi.Visa.dll
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.dll
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\MaterialSkin.dll
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart.4.5.2.xml
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart3D.4.5.2.xml
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Ivi.Visa.xml
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.pdb
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.xml
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csprojResolveAssemblyReference.cache
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form1.resources
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form2.resources
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form3.resources
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form4.resources
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form5.resources
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form6.resources
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form7.resources
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Properties.Resources.resources
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.GenerateResource.Cache
+C:\Users\aydin_yugruk\Desktop\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe.licenses
+C:\Users\aydin_yugruk\Desktop\çizim\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe.config
+C:\Users\aydin_yugruk\Desktop\çizim\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.ResolveComReference.cache
+C:\Users\aydin_yugruk\Desktop\çizim\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe
+C:\Users\aydin_yugruk\Desktop\çizim\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.pdb
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe.config
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.ResolveComReference.cache
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.pdb
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.pdb
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart.4.5.2.dll
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart3D.4.5.2.dll
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Ivi.Visa.dll
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.dll
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\MaterialSkin.dll
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart.4.5.2.xml
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart3D.4.5.2.xml
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Ivi.Visa.xml
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.pdb
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.xml
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csprojResolveAssemblyReference.cache
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form1.resources
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form2.resources
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form3.resources
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form4.resources
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form5.resources
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form6.resources
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form7.resources
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Properties.Resources.resources
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.GenerateResource.Cache
+C:\Users\aydin_yugruk\Desktop\çizim - Kopya\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe.licenses
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe.config
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.ResolveComReference.cache
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.pdb
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.pdb
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart.4.5.2.dll
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart3D.4.5.2.dll
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Ivi.Visa.dll
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.dll
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\MaterialSkin.dll
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart.4.5.2.xml
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart3D.4.5.2.xml
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Ivi.Visa.xml
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.pdb
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.xml
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csprojResolveAssemblyReference.cache
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form1.resources
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form2.resources
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form3.resources
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form4.resources
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form5.resources
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form6.resources
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form7.resources
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Properties.Resources.resources
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.GenerateResource.Cache
+C:\Users\aydin_yugruk\Desktop\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe.licenses
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe.config
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.ResolveComReference.cache
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.pdb
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.pdb
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart.4.5.2.dll
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart3D.4.5.2.dll
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Ivi.Visa.dll
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.dll
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\MaterialSkin.dll
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart.4.5.2.xml
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart3D.4.5.2.xml
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Ivi.Visa.xml
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.pdb
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.xml
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csprojResolveAssemblyReference.cache
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form1.resources
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form2.resources
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form3.resources
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form4.resources
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form5.resources
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form6.resources
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form7.resources
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Properties.Resources.resources
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.GenerateResource.Cache
+C:\Users\aydin_yugruk\Desktop\çizim\2-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe.licenses
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe.config
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.ResolveComReference.cache
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.pdb
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csprojResolveAssemblyReference.cache
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form1.resources
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form2.resources
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form3.resources
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form4.resources
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form5.resources
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form6.resources
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form7.resources
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Properties.Resources.resources
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.GenerateResource.Cache
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe.licenses
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.pdb
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart.4.5.2.dll
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart3D.4.5.2.dll
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Ivi.Visa.dll
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.dll
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\MaterialSkin.dll
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart.4.5.2.xml
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart3D.4.5.2.xml
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Ivi.Visa.xml
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.pdb
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.xml
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\aydin_yugruk\Desktop\5-çizim - tablo eklenmiş hal\deneme_frekans33120 ekli_Otomatik gü._github_ - Kopya\Spark-master\Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe.config
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.ResolveComReference.cache
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.pdb
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.pdb
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart.4.5.2.dll
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart3D.4.5.2.dll
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Ivi.Visa.dll
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.dll
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\MaterialSkin.dll
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart.4.5.2.xml
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart3D.4.5.2.xml
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Ivi.Visa.xml
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.pdb
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.xml
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csprojResolveAssemblyReference.cache
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form1.resources
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form2.resources
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form3.resources
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form4.resources
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form5.resources
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form6.resources
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form7.resources
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Properties.Resources.resources
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.GenerateResource.Cache
+C:\Users\aydin_yugruk\Desktop\8-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe.licenses
+C:\Users\aydin_yugruk\Desktop\çizim\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe.config
+C:\Users\aydin_yugruk\Desktop\çizim\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.ResolveComReference.cache
+C:\Users\aydin_yugruk\Desktop\çizim\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe
+C:\Users\aydin_yugruk\Desktop\çizim\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.pdb
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe.config
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.ResolveComReference.cache
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.pdb
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.pdb
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart.4.5.2.dll
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart3D.4.5.2.dll
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Ivi.Visa.dll
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.dll
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\MaterialSkin.dll
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart.4.5.2.xml
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart3D.4.5.2.xml
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Ivi.Visa.xml
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.pdb
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.xml
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csprojResolveAssemblyReference.cache
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form1.resources
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form2.resources
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form3.resources
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form4.resources
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form5.resources
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form6.resources
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form7.resources
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Properties.Resources.resources
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.GenerateResource.Cache
+C:\Users\aydin_yugruk\Desktop\9-Spark-master\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe.licenses
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe.config
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.ResolveComReference.cache
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.pdb
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.pdb
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart.4.5.2.dll
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart3D.4.5.2.dll
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Ivi.Visa.dll
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.dll
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\bin\Debug\MaterialSkin.dll
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart.4.5.2.xml
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\bin\Debug\C1.Win.C1Chart3D.4.5.2.xml
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Ivi.Visa.xml
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.pdb
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.xml
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csprojResolveAssemblyReference.cache
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form1.resources
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form2.resources
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form3.resources
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form4.resources
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form5.resources
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form6.resources
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Form7.resources
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.Properties.Resources.resources
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.csproj.GenerateResource.Cache
+C:\Users\aydin_yugruk\Desktop\9-Spark-master_standart sapma ekli\OrnekProje\OrnekProje\OrnekProje\obj\Debug\OrnekProje.exe.licenses
